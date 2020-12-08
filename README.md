@@ -85,7 +85,7 @@ Here you can automatically send heartbeat messages, send a logon/logout, request
 
 ```yaml
 apiVersion: th2.exactpro.com/v1
-kind: Th2GenericBox
+kind: Th2Box
 spec:
   image-name: your.image.repo:42/your_image_name
   image-version: 1.0.0
